@@ -59,7 +59,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AlphabeticCollectionOrderer.cs" />
     <Compile Include="CalculatorTests.cs" />
+    <Compile Include="MemoryCalculatorCollection.cs" />
+    <Compile Include="MemoryCalculatorTests3.cs" />
+    <Compile Include="MemoryCalculatorTests2.cs" />
+    <Compile Include="MemoryCalculatorTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
